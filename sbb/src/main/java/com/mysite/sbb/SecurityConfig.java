@@ -1,4 +1,4 @@
-package com.mysite.sbb;
+ 	package com.mysite.sbb;
 
 // 스프링 프레임워크의 구성 요소를 불러오는 부분입니다.
 import org.springframework.context.annotation.Bean;
